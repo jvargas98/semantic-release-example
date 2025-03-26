@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-example",
-  "version": "1.0.1",
+  "version": "1.1.0-beta.1",
   "main": "./dist/semantic-release-example.umd.js",
   "module": "./dist/semantic-release-example.es.js",
   "types": "./dist/types/index.d.ts",
