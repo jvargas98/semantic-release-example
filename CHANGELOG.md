@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jvargas98/semantic-release-example/compare/v1.0.0...v1.0.1) (2025-03-26)
+
+
+### Bug Fixes
+
+* **Build:** fix build process ([56b4f9d](https://github.com/jvargas98/semantic-release-example/commit/56b4f9da9359ccb1b7917f4b764bd6c38a0556e4))
+
 # 1.0.0 (2025-03-26)
 
 
