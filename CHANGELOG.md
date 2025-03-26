@@ -5,6 +5,13 @@
 
 * **Config:** fix package files ([4d89bec](https://github.com/jvargas98/semantic-release-example/commit/4d89becd7818ac5e497c617c43648e2e1c8c4fb6))
 
+# [1.1.0](https://github.com/jvargas98/semantic-release-example/compare/v1.0.1...v1.1.0) (2025-03-26)
+
+
+### Features
+
+* **Button:** add button component ([de26618](https://github.com/jvargas98/semantic-release-example/commit/de266181a0989d6de99ec25fbbd92e21aa291151))
+
 # [1.1.0-beta.1](https://github.com/jvargas98/semantic-release-example/compare/v1.0.1...v1.1.0-beta.1) (2025-03-26)
 
 
