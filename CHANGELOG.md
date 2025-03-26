@@ -1,3 +1,17 @@
+## [1.1.1-beta.1](https://github.com/jvargas98/semantic-release-example/compare/v1.1.0...v1.1.1-beta.1) (2025-03-26)
+
+
+### Bug Fixes
+
+* **Config:** fix package files ([4d89bec](https://github.com/jvargas98/semantic-release-example/commit/4d89becd7818ac5e497c617c43648e2e1c8c4fb6))
+
+# [1.1.0-beta.2](https://github.com/jvargas98/semantic-release-example/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2025-03-26)
+
+
+### Bug Fixes
+
+* **Config:** fix package files ([4d89bec](https://github.com/jvargas98/semantic-release-example/commit/4d89becd7818ac5e497c617c43648e2e1c8c4fb6))
+
 # [1.1.0](https://github.com/jvargas98/semantic-release-example/compare/v1.0.1...v1.1.0) (2025-03-26)
 
 
