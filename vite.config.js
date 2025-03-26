@@ -12,7 +12,7 @@ export default defineConfig({
     lib: {
       // Especifica el punto de entrada de tu librería (archivo que exporta los componentes)
       entry: resolve(__dirname, "src/index.ts"),
-      name: "MyReactLibrary", // Nombre global de tu librería (si se usa en navegador)
+      name: "jvargas ui library example", // Nombre global de tu librería (si se usa en navegador)
       fileName: (format) => `semantic-release-example.${format}.js`, // Nombre del archivo de salida
     },
     rollupOptions: {
